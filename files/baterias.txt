@@ -1,0 +1,45 @@
+Pilhas:
+
+a pilha é basicamente um envoltório de zinco um tipo de metal constituído por uma barra de grafita ou carvão inserida
+em um tubo poroso que contém carvão esmagado e dióxido de manganês. Envolvida por uma pasta úmida, uma solução que
+possibilita a condução de carga elétrica no interior da pilha, existem diversos tipos de pilhas diferentes desde
+as de Zinco, as alcalinas (constituídas de metais do tipo alcalino terroso), as de lítio (constituída de íons de
+lítio o que a torna uma pilha recarregável).
+
+Baterias:
+
+Agora falando sobre as baterias, elas são formadas por várias pilhas ligadas entre si. as baterias podem fornecer
+diferentes voltagens e níveis de corrente. Uma pilha comum geralmente possui voltagem igual a 1,5 V, sendo que seis
+pilhas ligadas em série originam uma bateria de 9 V. Um exemplo é a bateria de chumbo usada nos automóveis.
+Ela é formada por seis pilhas de 2 V cada, possuindo uma potência de 12 V no total.
+Ela é formada por várias placas de chumbo todas essas placas ficam imersas em uma solução de ácido sulfúrico (H2SO4) e
+são intercaladas e separadas por papelão ou plástico, alguns tipos de baterias incluem, baterias de níquel ou cádmio,
+bateria de íons de lítio (por não usarem lítio metálico, mas sim íons de lítio elas são recarregáveis).
+
+Cuidados a serem tomados:
+
+Pilhas:
+
+Use sempre o tamanho e o tipo corretos de pilha, especificados pelo fabricante do aparelho.
+Mantenha as superfícies de contato da pilha limpos, passando neles uma borracha de lápis limpa ou um pano áspero
+cada vez que você as trocar. Temperaturas extremas reduzem o desempenho das pilhas. Armazene-as em um local seco em
+temperatura ambiente normal. Não as refrigere, pois isso não fará com que durem mais tempo, e evite colocar dispositivos
+com pilhas em locais muito quentes.
+
+Baterias:
+
+As baterias automotivas possuem componentes que podem ser prejudiciais ao meio ambiente, um bom exemplo são as baterias
+de chumbo elas possuem vários componentes tóxicos que podem contaminar o solo. Por isso, você não deve jogá-las em lixos
+convencionais ou na natureza, pois em uma bateria de chumbo-ácido encontram-se elementos químicos extremamente
+prejudiciais para os seres vivos. A peça é composta de chumbo e outros materiais tóxicos. Quando mal descartada pode
+causar disfunções no sistema nervoso, problemas ósseos, circulatórios etc.
+
+Formas de reutilização Pilhas e Baterias:
+
+Após passar pela etapa de trituração as pilhas e baterias são submetidas a mais dois processos antes de serem
+reaproveitadas No processo químico as baterias são submetidas a um processo que recupera sais e óxidos metálicos que
+são posteriormente utilizados na indústria como matéria prima  em corantes e pigmentos, no processo térmico elas são
+levadas ao forno do tipo industrial onde são submetidas a alta temperatura para a separação do zinco, assim podendo ser
+reutilizado novamente na confecção de novas pilhas ou baterias, O processo de reciclagem de pilhas e baterias
+reaproveita os metais e componentes químicos. Além disso, todos eventuais resíduos do processo são também tratados e
+reaproveitados, exemplo:  na produção de cimento, ou são enviados para uma destinação ambientalmente correta.
