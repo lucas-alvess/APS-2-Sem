@@ -1,7 +1,7 @@
 import geopy.distance
 from geopy.geocoders import Nominatim
-import pycep_correios
-from pycep_correios import exceptions
+import brazilcep
+from brazilcep import exceptions
 
 
 def titulo_menu2(txt):
@@ -35,7 +35,8 @@ def linha():
 
 def menu_inicial():
     titulo("MENU PRINCIPAL")
-    print('''⎪ [1] - Informações a respeito dos materiais recicláveis ⎪ 
+    print('''
+⎪ [1] - Informações a respeito dos materiais recicláveis ⎪ 
 ⎪ [2] - Informações a respeito dos pontos de coleta      ⎪
 ⎪ [3] - Localização dos pontos de coleta                 ⎪
 ⎪ [4] - Calculadora                                      ⎪
@@ -84,23 +85,23 @@ def opcao(escolha):
 
     else:
         if escolha == "1":
-            cep = str(input("Digite seu CEP "))
+            cep = str(input("Digite seu CEP (Ex: 13083820 ) "))
             while len(cep) != 8 or cep == "99999999":
                 print("CEP Invalido")
-                cep = str(input("Digite um cep valido "))
+                cep = str(input("Digite um cep válido "))
 
             else:
 
                 try:
-                    endereco = pycep_correios.get_address_from_cep(cep)
+                    endereco = brazilcep.get_address_from_cep(cep)
 
                 except exceptions.InvalidCEP as eic:
                     cep = str(input("CEP inválido, digite novamente "))
-                    endereco = pycep_correios.get_address_from_cep(cep)
+                    endereco = brazilcep.get_address_from_cep(cep)
 
                 except exceptions.CEPNotFound as ecnf:
                     cep = str(input("CEP não encontrado, digite novamente "))
-                    endereco = pycep_correios.get_address_from_cep(cep)
+                    endereco = brazilcep.get_address_from_cep(cep)
 
                 except exceptions.Timeout as errt:
                     print("Erro de conexão, verifique sua conexão com a internet e execute novamente o programa")
@@ -225,7 +226,7 @@ while escolha_inicial != "5":
     elif escolha_inicial == "3":
 
         print(linha())
-        print('''[ 1 ] - CEP
+        print('''[ 1 ] - CEP (ERROR)
 [ 2 ] - Endereço
                 ''')
 
